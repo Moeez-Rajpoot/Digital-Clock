@@ -14,13 +14,9 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-
-    
 }
 
-
 .container{
-
    
     color: rgb(255, 255, 255);
     font-family: 'Times New Roman', Times, serif;
@@ -56,8 +52,6 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: white;
     font-size: 60px;
-
-
 }
 
 #tp{
@@ -77,8 +71,6 @@ h1{
     z-index: -1;
     height: 300px;
     width: 350px;
-
-
     
 }
 
